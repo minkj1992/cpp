@@ -1,4 +1,5 @@
-# `C++` 학습
+# c++
 
-- `./modern_cpp_basic`
-  - modern c++ 문법 학습 (c++11 이후)
+## refs
+
+- [exercism c++](https://exercism.org/tracks/cpp/exercises)
