@@ -460,6 +460,3 @@ Yearly Plan
     ├── Month 11: Understanding Flang and LLVM
     └── Month 12: Open-Source Contributions and Interviews
 ```
-
----
-
